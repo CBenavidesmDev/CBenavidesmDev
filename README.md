@@ -6,6 +6,7 @@ Hola mi nombre es Cristhian!
 </h1>
 👨‍💻 Trabajo como desarrollador y me especializo en el desarrollo de software y aplicaciones móviles.
 
+
 :star:  También trabajo como <b>consultor para Pymes y como Sales Manager</b> utilizando la tecnología como boost en los proyectos.
 
 📚 Me gusta aprender constantemente y sobretodo practicarlo.
